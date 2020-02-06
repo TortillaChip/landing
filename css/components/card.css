@@ -1,0 +1,15 @@
+.card {
+  box-shadow: 0 0 5px rgb(230,230,230);
+  padding: 20px;
+}
+
+.card img {
+  height: 100px;
+}
+
+.card p {
+  font-weight: lighter;
+  opacity: 0.6;
+}
+
+
